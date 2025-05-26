@@ -1,4 +1,4 @@
-# 🌍 Profile Mapper Web Application(Video Dmo attached Above)
+# 🌍 Profile Mapper Web Application(Video Demo attached Above)
 
 This is a simple React-based web application that allows users to view a list of profiles and explore their addresses interactively on a map.
 
